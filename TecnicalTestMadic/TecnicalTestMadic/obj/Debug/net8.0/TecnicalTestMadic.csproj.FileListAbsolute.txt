@@ -1,0 +1,11 @@
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\TecnicalTestMadic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\TecnicalTestMadic.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\TecnicalTestMadic.AssemblyInfo.cs
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\TecnicalTestMadic.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\bin\Debug\net8.0\TecnicalTestMadic.deps.json
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\bin\Debug\net8.0\TecnicalTestMadic.dll
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\bin\Debug\net8.0\TecnicalTestMadic.pdb
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\TecnicalTestMadic.dll
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\refint\TecnicalTestMadic.dll
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\TecnicalTestMadic.pdb
+C:\Users\artur\source\repos\TecnicalTestMadic\TecnicalTestMadic\obj\Debug\net8.0\ref\TecnicalTestMadic.dll
